@@ -8,5 +8,5 @@ while True:
 		break
 	elif num > r:
 		print('比答案大')
-	else:
+	else num < r:
 		print('比答案小')
